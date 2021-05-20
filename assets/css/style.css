@@ -368,7 +368,13 @@ h3 {
     color: #ffffff;
     margin-bottom: 40px;
     padding: 0;
-    
 
+
+}
+
+@media(max-width: 700px) {
+    .cta h1 {
+        font-size: 24px;
+    }
 }
 
