@@ -103,6 +103,10 @@ nav img {
         transition: 1s;
     }
 
+    nav .fas {
+        display: none;
+    }
+    
     @media (max-width: 700px) {
         .text-box h1 {
        font-size: 20px;
@@ -125,6 +129,13 @@ nav img {
        z-index: 2;
 
    }
+
+   nav .fas {
+       display: block;
+       color: #ffffff;
+       margin: 10px;
+       font-size: 22px;
+       cursor: pointer;
 
 
 }
