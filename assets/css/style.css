@@ -167,3 +167,9 @@ p {
     line-height: 22px;
     padding: 10px;
 }
+
+.row {
+    margin-top: flex;
+    display: flex;
+    justify-content: space-between;
+}
