@@ -450,3 +450,26 @@ h3 {
 .red-btn:hover {
     color: #fff;
 }
+
+/* blog page section */
+
+.blog-content {
+    margin: auto;
+    width: 80%;
+    padding: 60px 0;
+
+}
+
+.blog-left {
+    flex-basis: 65%;
+}
+
+.blog-left img {
+    width: 100%;
+}
+
+.blog-left h2 {
+    color: #222222;
+    font-weight: 600;
+    margin: 30px 0;
+}
