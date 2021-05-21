@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Eduford University Page">
+    <meta name="keywords" content="eduford, university, courses, information">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png">
+    <title>Eduford University</title>
+</head>
+
+<body>
+    <section class="sub-header">
+        <nav>
+            <a href="index.html">
+                <img src="assets/images/logo.png" alt="website-logo">
+            </a>
+            <div class="nav-links" id="navLinks">
+                <i class="fas fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li>
+                        <a href="index.html">HOME</a>
+                    </li>
+                    <li>
+                        <a href="about.html">ABOUT</a>
+                    </li>
+                    <li>
+                        <a href="course.html">COURSE</a>
+                    </li>
+                    <li>
+                        <a href="blog.html">BLOG</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">CONTACT</a>
+                    </li>
+
+
+                </ul>
+
+            </div>
+            <i class="fas fa-bars" onclick="showMenu()"></i>
+        </nav>
+
+        <h1>About us</h1>
+
+    </section>
+
+    <!-- about us content -->
+
+    <section class="about-us">
+        <div class="row">
+            <div class="about-col">
+                <h1>We are the worlds largest unversity</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempus risus ac imperdiet
+                    maximus. Donec consectetur massa quam,
+                    sed auctor purus sollicitudin ac. Mauris aliquet nec odio et lobortis. Sed augue turpis, elementum
+                    id fermentum ut, laoreet at nulla.
+                    Nam at nisl non risus iaculis gravida finibus lacinia mi. Nunc rhoncus posuere erat, non posuere
+                    lacus molestie in.
+                    Mauris venenatis massa vel mi laoreet, vel pretium elit ultrices. Sed velit ante, commodo quis
+                    pretium non</p>
+                <a href="" class="hero-btn red-btn">EXPLORE NOW</a>
+            </div>
+            <div class="about-col">
+                <img src="assets/images/about.jpg" alt="A class room with students and the teacher">
+            </div>
+        </div>
+
+
+    </section>
+
+
+
+
+
+
+    <!-- footer -->
+
+    <section class="footer">
+        <h4>ABOUT US:</h4>
+        <p>Eduford Educational University <br>founded in 1966 by W. Vincent.</p>
+        <div class="icons">
+            <a href="https://facebook.com" target="_blank" rel="noopener"
+                aria-label="Visit our Facebook page (Opens in a new tab)"><i class="fab fa-facebook"></i></a>
+            <a href="https://twitter.com" target="_blank" rel="noopener"
+                aria-label="Visit our Twitter page (Opens in a new tab)"><i class="fab fa-twitter"></i></a>
+            <a href="https://instagram.com" target="_blank" rel="noopener"
+                aria-label="Visit our Instagram page (Opens in a new tab)"><i class="fab fa-instagram"></i></a>
+            <a href="https://linkedin.com" target="_blank" rel="noopener"
+                aria-label="Visit our Linkedin page (Opens in a new tab)"><i class="fab fa-linkedin-in"></i></a>
+
+
+
+        </div>
+
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+    <!-- font awesome script -->
+    <script src="https://kit.fontawesome.com/7a679dcc3c.js" crossorigin="anonymous"></script>
+
+    <!-- Javascript for menu toggle -->
+    <script>
+        var navLinks = document.getElementById("navLinks");
+
+        function showMenu() {
+            navLinks.style.right = "0";
+        }
+
+        function hideMenu() {
+            navLinks.style.right = "-200px";
+        }
+    </script>
+
+</body>
+
+</html>
