@@ -1,59 +1,70 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Logo](/assets/images/logo.png)
+# Eduford University Website
+Eduford is a unversity website that hopes to provide people information, content and support for people
+who are interested in applying to one of the courses at Eduford University. This website hopes to cover all the content
+needed for new students aswell as foreign students. Eduford is useful for students who want to join a modern language course.
 
-Welcome Steve Alsamarae,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+![Homepage](assets/rm-images/home-pc.png)
 
-## Gitpod Reminders
+## Features
+This website was designed with responsive, simplistic and clear features that will help users navigate through the website for the information needed at ease.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Existing Features
 
-`python3 -m http.server`
+- __Navigation menu__
 
-A blue button should appear to click: _Make Public_,
+   - Featured on all five pages, the full responsive navigation 
+    bar includes links to the Logo, Home page, Course page, Blog and Contact page and is 
+    identical in each page to allow for easy navigation.
+   - The navigation menu is responsive even on small screen devices.
+    
+#### Nav-bar :
+![Nav-bar](assets/rm-images/nav.png)
 
-Another blue button should appear to click: _Open Browser_.
+#### Phone devices will show a 3 dot menu, which will open up a drop down menu when clicked :
+![Nav-phone](assets/rm-images/nav-phone.png)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- __Header__
 
-A blue button should appear to click: _Make Public_,
+   - Opening page header include a a clear background of the university's location and the unversity's logo.
+   - This section introduces the user to Eduford and Eduford's slogan.
+   - A "Visit us to know more" button is included, to take the user directly to the contact page, where location is provided.
+  
+![Home-header](assets/rm-images/home-header.png)
 
-Another blue button should appear to click: _Open Browser_.
+- __Eduford offers__
+   
+   - 3 panel section is included in the home page, when hovered over gives a pop effect.
+   - Provides the user with short vital information about some of what Eduford offers.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+![Home-3panels](assets/rm-images/3panels.png)
 
-To log into the Heroku toolbelt CLI:
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- __Campus Locations__
+  - Includes 3 images of the cities where Eduford is located at.
+  - When hovered over an image, name of the City shows up.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidently make it public then you can create a new one with _Regenerate API Key_.
+ ![campus-location](assets/rm-images/campus-locations.png) 
 
-## Updates Since The Instructional Video
+ - __Facilities Section__
+   - Includes 3 images of the facilities Eduford offers.
+   - Text underneath each image providing the user with information regarding the facilities.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+![Facilities](assets/rm-images/Facilities-sec.png) 
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+- __Reviews Section__
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+  - Student reviews section.
+  - Includes 2 review comments made from student in regards to Eduford.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+![Review-section](assets/rm-images/review-sec.png) 
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+- __Call To Action Section__
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+  - Includes a background image of the class and Enroll with us text.
+  - Contact Us button, when clicked it takes the user to the contage page, where the user will be able to submit a message to Eduford.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
----
-
-Happy coding!
+![CTA-section](assets/rm-images/cta-sec.png)
