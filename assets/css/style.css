@@ -170,7 +170,7 @@ p {
 }
 
 .row {
-    margin-top: flex;
+    margin-top: auto;
     display: flex;
     justify-content: space-between;
 }
