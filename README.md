@@ -29,7 +29,7 @@ This website was designed with responsive, simplistic and clear features that wi
 
    - Opening page header include a a clear background of the university's location and the unversity's logo.
    - This section introduces the user to Eduford and Eduford's slogan.
-   - A "Visit us to know more" button is included, to take the user directly to the contact page, where location is provided.
+   - A "Visit Us To Know More" button is included, to take the user directly to the contact page, where location is provided.
   
 ![Home-header](assets/rm-images/home-header.png)
 
@@ -68,3 +68,11 @@ This website was designed with responsive, simplistic and clear features that wi
   - Contact Us button, when clicked it takes the user to the contage page, where the user will be able to submit a message to Eduford.
 
 ![CTA-section](assets/rm-images/cta-sec.png)
+
+
+- __Footer__
+
+  - Footer section that's spread out across all pages, includes all social media links to Eduford.
+  - Includes founding information of Eduford.
+
+ ![footer](assets/rm-images/footer.png) 
