@@ -76,3 +76,25 @@ This website was designed with responsive, simplistic and clear features that wi
   - Includes founding information of Eduford.
 
  ![footer](assets/rm-images/footer.png) 
+
+ - __About Page__
+
+   - Provides user with information regarding Eduford Staff.
+   - "Explore Now" button takes the user to course page.
+
+  ![about-page](assets/rm-images/about-page.png)
+
+   - __Certificate page__
+
+     - Provides user with details of the course, courses and ect points.
+     - Include a form where user can leave a comment. (Non functional currently)
+
+![blog-page](assets/rm-images/blog-page.png) 
+
+
+- __Certificate page__
+
+   - Contact page including address and contact information to Eduford.
+   - Includes a required form where a user can leave a message.
+
+![contact-page](assets/rm-images/contact-page.png)   
