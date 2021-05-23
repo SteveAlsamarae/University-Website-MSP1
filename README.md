@@ -5,7 +5,7 @@ who are interested in applying to one of the courses at Eduford University. This
 needed for new students aswell as foreign students. Eduford is useful for students who want to join a modern language course.
 
 
-![Homepage](assets/rm-images/home-pc.png)
+![Mockup-image](assets/rm-images/mockup-image.png)
 
 ## Features
 This website was designed with responsive, simplistic and clear features that will help users navigate through the website for the information needed at ease.
