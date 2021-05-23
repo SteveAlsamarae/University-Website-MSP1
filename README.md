@@ -156,7 +156,19 @@ Github link: https://github.com/SteveAlsamarae/University-Website-MSP1
 
 ## WIREFRAMES
 
-### Home Page
-![Homepage](homepage-wirefram.png)
+### * Home Page *
+![Home-page](assets/wireframes/Homepage-wireframe.png)
 
-  
+### * About Page *
+![About-page](assets/wireframes/About-wireframe.png)
+
+
+### * Contact Page * 
+![Contact-page](assets/wireframes/Contact-wirefram.png)
+
+### * Blog Page * 
+![Blog-page](assets/wireframes/blog-wireframe.png)
+
+
+### * Website On Smaller Displays * 
+![Responsive](assets/wireframes/Phone-wireframe.png)
