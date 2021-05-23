@@ -2,7 +2,7 @@
 # Eduford University Website
 Eduford is a unversity website that hopes to provide people information, content and support for people
 who are interested in applying to one of the courses at Eduford University. This website hopes to cover all the content
-needed for new students aswell as foreign students. Eduford is useful for students who want to join a modern language course.
+needed for new students as well as foreign students. Eduford is useful for students who want to join a modern language course.
 
 
 ![Mockup-image](assets/rm-images/mockup-image.png)
@@ -98,3 +98,32 @@ This website was designed with responsive, simplistic and clear features that wi
    - Includes a required form where a user can leave a message.
 
 ![contact-page](assets/rm-images/contact-page.png)   
+
+
+## Features left to implement
+
+   - Add a dump where user can submit messages or leave comments to.
+   - Add onclick reset, and a submitted arrow icon when user submits message.
+   - Add staff members details and contact information.
+   - Add application page, where user can apply to a course.
+
+## Testings
+
+  All site features and interactivity function as intended, scrolling through the site functions smoothly, buttons take the user to where they want to go, navigation
+  menu helps the user towards the section they seek after. 
+
+  ![lighthouse-report](assets/rm-images/lighthouse-report.png) 
+
+## Validator Testing
+
+- HTML
+   - No errors returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+
+
+## Unfixed Bugs
+Styling needs to be more organized, some styles were unneccessarily used due to the time available 
+to finish coding the website. Element name were generic, needs to be changed.
+  
