@@ -106,6 +106,9 @@ This website was designed with responsive, simplistic and clear features that wi
    - Add onclick reset, and a submitted arrow icon when user submits message.
    - Add staff members details and contact information.
    - Add application page, where user can apply to a course.
+   - Styling needs to be more organized, some styles were unneccessarily used due to the time available 
+to finish coding the website. 
+   - Element names were generic, needs to be changed.
 
 ## Testings
 
@@ -124,6 +127,30 @@ This website was designed with responsive, simplistic and clear features that wi
 
 
 ## Unfixed Bugs
-Styling needs to be more organized, some styles were unneccessarily used due to the time available 
-to finish coding the website. Element name were generic, needs to be changed.
+None found.
+
+## Deployment
+- The site was deployed to GitHub pages.
+
+Live link: https://stevealsamarae.github.io/University-Website-MSP1/index.html
+
+Github link: https://github.com/SteveAlsamarae/University-Website-MSP1
+
+## Credits
+* Credits goes to Code Institude, tasks taught me a lot on how to put together. Help from mentor, and the slack community.
+
+* Credits to Udemy for also offering me a course that I have undertaken.
+
+* Credits to W3schools.
+
+
+### Content
+
+  - Content on Blog page was taken from https://www.topuniversities.com/
+
+### Media
+  - All images used were taken from
+    - https://www.pexels.com/
+    - https://unsplash.com/
+
   
